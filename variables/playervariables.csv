@@ -1,4 +1,5 @@
 NAME,HASHED VARIABLE NAME ,DESCRIPTION
 self.var_012C,self.var_012C, Equivalent of self.pers
-self.health,self.health,this is the players health.
+self.health, NONE,this is the players health.
+self.maxhealth, NONE,this is the players max health. 
 level.var_5A61,level.killstreakFuncs,array for killstreak functions
