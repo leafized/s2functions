@@ -1,0 +1,5 @@
+NAME,HASHED VARIABLE NAME ,DESCRIPTION
+level.killstreakFuncs,level.var_5A61,array for killstreak functions
+level.isSplitscreen, level.var_910F, boolean set by the game for Splitscreen.
+level.bot_funcs, level.var_19D5, array of functions for bots
+level.crateTypes, level.var_275F, array storing carepackage streaks

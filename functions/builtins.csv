@@ -1,0 +1,5 @@
+NAME, FUNCTION NAME, PARAMETERS ( / REPRESENTS A COMMA )  ,DESCRIPTION
+setWeaponAmmoClip, ::method_82FA, ( < weapon > / <amount> ) , Set your weapon ammo to the value given.
+getTacticalWeapon, ::method_831F, NONE, this will return the callers tactical weapon slot
+getLethalWeapon,  ::method_834A, NONE, this will return the callers lethal weapon slot
+playSound, ::method_8615, ( <sound> ), this will play a sound effect
