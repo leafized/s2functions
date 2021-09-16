@@ -11,7 +11,7 @@ playerUnlimitedAmmo, maps\mp\gametypes\scorestreak_training::func_47A9(), NONE, 
 endGame, maps\mp\gametypes\_gamelogic::func_36B9, ( team / reason ),ends the game with reason
 getTacticalWeapon, method_831F, NONE, this will return the callers tactical weapon slot
 getLethalWeapon,  method_834A, NONE, this will return the callers lethal weapon slot
-getSplashTable, maps\mp\gametypes\_hud_message::func_4369(), returns the csv table for splash notifications
+getSplashTable, maps\mp\gametypes\_hud_message::func_4369(),NONE, returns the csv table for splash notifications
 hudScaleOverTime, maps\mp\gametypes\_hud_util::func_9C84, ( time ), scales fonts and shaders
 addCrateType, maps\mp\killstreaks\airdrop::func_09F0, ( streakId / dropRatio / streakType / gameString ), adds items to the carepackage
 createAirDropCrate, maps\mp\killstreaks\_airdrop::func_27CB, ( owner / dropType / crateType / startPos / dropPoint / crateColor ), creates carepackage
