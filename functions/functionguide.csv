@@ -7,7 +7,11 @@ getStatMode, common_scripts\_utility::func_46AE, NONE,This function will return 
 setObjectiveText, maps\mp\_utility::func_86DC, ( team / string ), this changes the Objective Text
 setObjectiveHintText, maps\mp\_utility::func_86D8, ( team / string ), this changes the objective hint!
 setObjectiveScoreText, maps\mp\_utility::func_86DB, ( team / string ), this changes the score text!
-playerUnlimitedAmmo, maps\mp\gametypes\scorestreak_training::func_47A9(), NONE, this enables unlimited ammo on the caller
-
+playerUnlimitedAmmo, maps\mp\gametypes\scorestreak_training::func_47A9(), NONE, note::only use the code inside this function, it doesnt work outside hub!
+endGame, maps\mp\gametypes\_gamelogic::func_36B9, ( team / reason ),ends the game with reason
 getTacticalWeapon, method_831F, NONE, this will return the callers tactical weapon slot
 getLethalWeapon,  method_834A, NONE, this will return the callers lethal weapon slot
+getSplashTable, maps\mp\gametypes\_hud_message::func_4369(), returns the csv table for splash notifications
+hudScaleOverTime, maps\mp\gametypes\_hud_util::func_9C84, ( time ), scales fonts and shaders
+addCrateType, maps\mp\killstreaks\airdrop::func_09F0, ( streakId / dropRatio / streakType / gameString ), adds items to the carepackage
+createAirDropCrate, maps\mp\killstreaks\_airdrop::func_27CB, ( owner / dropType / crateType / startPos / dropPoint / crateColor ), creates carepackage
