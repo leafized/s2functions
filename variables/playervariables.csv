@@ -1,0 +1,4 @@
+NAME,HASHED VARIABLE NAME ,DESCRIPTION
+self.var_012C,self.var_012C, Equivalent of self.pers
+self.health,self.health,this is the players health.
+level.var_5A61,level.killstreakFuncs,array for killstreak functions
