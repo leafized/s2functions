@@ -8,3 +8,6 @@ setObjectiveText, maps\mp\_utility::func_86DC, ( team / string ), this changes t
 setObjectiveHintText, maps\mp\_utility::func_86D8, ( team / string ), this changes the objective hint!
 setObjectiveScoreText, maps\mp\_utility::func_86DB, ( team / string ), this changes the score text!
 playerUnlimitedAmmo, maps\mp\gametypes\_scorestreak_training::func_47A9(), NONE, this enables unlimited ammo on the caller
+
+getTacticalWeapon, method_831F, NONE, this will return the callers tactical weapon slot
+getLethalWeapon,  method_834A, NONE, this will return the callers lethal weapon slot
