@@ -15,3 +15,4 @@ createAirDropCrate, maps\mp\killstreaks\_airdrop::func_27CB, ( owner / dropType 
 notifyMessage, maps\mp\gametypes\_hud_message::func_680B, (notifyData),notifyMessage from previous cods. does not have duration.
 oldNotifyMessage, maps\mp\gametypes\_hud_message::func_6A64,( titleText / notifyText / iconName / glowColor / sound / duration ), notify message with duration.
 bots - setup_callBacks, maps\mp\bots\_bots::func_87A7(), NONE, sets up the bots
+spawn_bots, maps\mp\bots\_bots::func_8F88, ( num_bots / team / botCallback / haltWhenFull / notifyWhenDone / difficulty ), spawns bots - you can do | level thread [[ level.var_19D5[ "bots_spawn" ]]]( parameters here) |
