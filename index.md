@@ -2,34 +2,32 @@
 
 This is a project to help with understanding the s2 gsc dumps.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Information
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## What is s2functions?
 
-- Bulleted
-- List
+- Simple repo containing what hashedFunctions are named in other call of duty games.
+s2 has signficantly more hashed functions than that of other games in the franchise.
+s2 gsc script is similar to that of iw6, in that the s2 game is built off of iw6.
+- Provides guidance on otherwise difficult tasks of trying to understand what functions do what inside of s2.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+**This project does not have support! If you notice an incorrect label, let me know!**
+**This project is specifically for the s2 game engine!**
+
+[Link](https://www.callofduty.com/content/dam/atvi/callofduty/wwii/home/sh-overview.jpg)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Why does this project exist?
 
-### Jekyll Themes
+I am making my own library of functions, as the game has hashed a lot of functions and i'd like to be able to find my functions easily.
+I decided to share this library because I understand that this process is extremely tedious to do yourself.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leafized/s2functions/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### How do you compile projects for s2?
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+There is a public gsc compiler available, it is closed source. That compiler can be used on s2, iw6,iw5,iw4,t4,t5,t6,t7!
