@@ -1,0 +1,7 @@
+NAME,HASHED FUNCTION NAME,VARIABLE NAME ,DESCRIPTION
+self.var_012C, ,self.var_012C, Equivalent of self.pers
+level.var_5A61, ,level.killstreakFuncs, array for killstreak functions
+
+giveLoadout, maps\mp\gametypes\_class::func_0F35, ,Gives the player their currently selected class
+giveKillstreak, maps\mp\killstreaks\_killstreaks::func_478D, ,Gives the player a killstreak
+setWeaponAmmoClip, ::method_82FA, ,setWeaponAmmoClip( weapon - amount )
