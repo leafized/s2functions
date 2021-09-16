@@ -4,3 +4,4 @@ self.health, NONE,this is the players health.
 self.maxhealth, NONE,this is the players max health.
 level.killstreakFuncs,level.var_5A61,array for killstreak functions
 allowCopycat, self.var_28D0, allows you to copycat when you die. 
+level.isSplitscreen, level.var_910F, boolean set by the game for Splitscreen.
