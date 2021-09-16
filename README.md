@@ -1,5 +1,8 @@
 # s2functions
  A project that will help people with certain functions that are harder to find as they are hashed.
+ If you want an exe that loads the github so you can get to this site faster, see the link below.
+ https://drive.google.com/file/d/1k03xotWeolt8id9Wqv4508xYK8y4I57F/view?usp=sharing
+ The file is large because of the dlls used to maintain the webview client, the webview from microsoft is no longer supported, cefsharp does a good job in providing a better library than windows webview did. The entire exe is about 20 lines.
 
 The entire point of this project is that the game has hashed most of the gsc functions in s2.
 I have been doing research into the files to name them as i work on a project, and I was trying to think of a way to store it.
