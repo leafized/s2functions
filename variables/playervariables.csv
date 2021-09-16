@@ -1,5 +1,5 @@
 NAME,HASHED VARIABLE NAME ,DESCRIPTION
-self.var_012C,self.var_012C, Equivalent of self.pers
+self.pers,self.var_012C, Equivalent of self.pers
 self.health, NONE,this is the players health.
 self.maxhealth, NONE,this is the players max health.
 self.allowCopycat, self.var_28D0, allows you to copycat when you die. 
