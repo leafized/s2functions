@@ -2,7 +2,7 @@ NAME,HASHED FUNCTION NAME, PARAMETERS ( / REPRESENTS A COMMA )  ,DESCRIPTION
 giveLoadout, maps\mp\gametypes\_class::func_0F35, ( team / class ) ,Gives the player their currently selected class
 giveKillstreak, maps\mp\killstreaks\_killstreaks::func_478D, ( streakName/ isEarned/ awardXp/ owner/ slotNumber/ streakID ) ,Gives the player a killstreak
 setWeaponAmmoClip, ::method_82FA, ( < weapon > / <amount> ) , Set your weapon ammo to the value given.
-setPoint, maps\mp\gametypes\_hud_util::func_8707, (param_00/param_01/param_02/param_03/param_04),This is setpoint in s2
+setPoint, maps\mp\gametypes\_hud_util::func_8707, ( point / relativePoint / xOffset / yOffset / moveTime ),This is setpoint in s2
 getStatMode, common_scripts\_utility::func_46AE, NONE,This function will return rankedPlayerData or zombiePlayerData (depending on gametype)
 setObjectiveText, maps\mp\_utility::func_86DC, ( team / string ), this changes the Objective Text
 setObjectiveHintText, maps\mp\_utility::func_86D8, ( team / string ), this changes the objective hint!
