@@ -7,4 +7,5 @@ self.postGamePromotion, self.var_75E5, promotes you when the game ends
 -,-,-
 zombies mode,-,-
 -,-,-
-self.pers["zombieKills"],self.var_012C["zombieKills"], player zombie kills
+self.pers[ zombieKills ],self.var_012C[ zombieKills ], player zombie kills (zombieKills needs to be in quotes!
+self.money, self.var_62D7, the player's money variable in zombies

@@ -7,3 +7,4 @@ level.gameEnded, level.var_3F9D, game ended variable
 -,-,-
 zombies mode,-,-
 level.boxWeaponArray, level.var_5F7F, array of weapons in the mystery box.
+level.zombies.callbacks, level.var_071D.var_611B, callbacks function array.
