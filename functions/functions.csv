@@ -25,3 +25,5 @@ getSplashTable, maps\mp\gametypes\_hud_message::func_4369(),NONE, returns the cs
 -,-,-,-
 bots - setup_callBacks, maps\mp\bots\_bots::func_87A7(), NONE, sets up the bots
 spawn_bots, maps\mp\bots\_bots::func_8F88, ( num_bots / team / botCallback / haltWhenFull / notifyWhenDone / difficulty ), spawns bots function
+-,-,-,-
+addWeaponMysteryBox, maps\mp\zombies\_zombies_magicbox::func_09C8, ( weaponName / attachment1 , attachment2 , attachment3 , limitedItem , forceSelect ), adds weapons to the mystery box

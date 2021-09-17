@@ -4,3 +4,6 @@ level.isSplitscreen, level.var_910F, boolean set by the game for Splitscreen.
 level.bot_funcs, level.var_19D5, array of functions for bots
 level.crateTypes, level.var_275F, array storing carepackage streaks
 level.gameEnded, level.var_3F9D, game ended variable
+-,-,-
+zombies mode,-,-
+level.boxWeaponArray, level.var_5F7F, array of weapons in the mystery box.
