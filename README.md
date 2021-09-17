@@ -1,5 +1,9 @@
 # s2functions
  A project that will help people with certain functions that are harder to find as they are hashed.
+ 
+ # How to read / understand s2functions repo
+ https://youtu.be/l0yX-MLYpK0
+ 
  If you want an exe that loads the github so you can get to this site faster, see the link below.
  https://drive.google.com/file/d/1k03xotWeolt8id9Wqv4508xYK8y4I57F/view?usp=sharing
  The file is large because of the dlls used to maintain the webview client, the webview from microsoft is no longer supported, cefsharp does a good job in providing a better library than windows webview did. The entire exe is about 20 lines.
