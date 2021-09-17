@@ -5,3 +5,4 @@ getLethalWeapon,  ::method_834A, NONE, this will return the callers lethal weapo
 playSound, ::method_8615, ( <sound> ), this will play a sound effect
 getPlayerAngles, ::getAngles, NONE, getPlayerAngles was removed.
 setMoveSpeedScale, ::method_81E1, ( <speed as int> ), set the players move speed scale
+playAnimation, ::method_8617, ( <animation>), plays animation on caller

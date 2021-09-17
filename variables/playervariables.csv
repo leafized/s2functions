@@ -4,3 +4,7 @@ self.health, NONE,this is the players health.
 self.maxhealth, NONE,this is the players max health.
 self.allowCopycat, self.var_28D0, allows you to copycat when you die. 
 self.postGamePromotion, self.var_75E5, promotes you when the game ends
+-,-,-
+zombies mode,-,-
+-,-,-
+self.pers["zombieKills"],self.var_012C["zombieKills"], player zombie kills
