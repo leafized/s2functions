@@ -4,7 +4,10 @@ level.isSplitscreen, level.var_910F, boolean set by the game for Splitscreen.
 level.bot_funcs, level.var_19D5, array of functions for bots
 level.crateTypes, level.var_275F, array storing carepackage streaks
 level.gameEnded, level.var_3F9D, game ended variable
+level.isTeamBased, level.var_984D, variable for if the game is team based or not
+level.gametype, level.var_3FDC, variable to get the gametype ie: dm, sd, dom, tdm
 -,-,-
 zombies mode,-,-
 level.boxWeaponArray, level.var_5F7F, array of weapons in the mystery box.
 level.zombies.callbacks, level.var_071D.var_611B, callbacks function array.
+level.finalKillcam_Winner, level.var_3B5C,person who got last kill
