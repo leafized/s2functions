@@ -7,5 +7,5 @@ getPlayerAngles, ::getAngles, NONE, getPlayerAngles was removed.
 setMoveSpeedScale, ::method_81E1, ( <speed as int> ), set the players move speed scale
 playAnimation, ::method_8617, ( <animation>), plays animation on caller
 updateScores, ::method_82A3, NONE, updates the gamescores!
-hide, ::method_805C, hides caller from view 
-show, ::method_805B, shows caller (must be hidden)
+hide, ::method_805C, NONE, hides caller from view 
+show, ::method_805B, NONE, shows caller (must be hidden)
