@@ -16,3 +16,7 @@ level.zm_drops["insta_kill"]["func"],level.var_6FBF["insta_kill"]["func"] = ::fu
 level.zm_drops["double_points"]["func"],level.var_6FBF["double_points"]["func"] = ::func_0DB9;,zombies double_points drop
 level.zm_drops["nuke"]["func"],level.var_6FBF["nuke"]["func"] = ::func_0DB9;,zombies nuke drop
 level.zm_drops["ability_fill"]["func"],level.var_6FBF["ability_fill"]["func"] = ::func_0DB9;,zombies ability_fill drop
+
+level.instakillTimer, level.var_53DE, how long instakill will last before ending
+level.doublePointsTimer, level.var_32C9, how long dobulepoints will last before ending 
+level.firesaleTimer, level.var_3C1C, how long firesale will last
