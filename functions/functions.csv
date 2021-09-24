@@ -28,6 +28,6 @@ spawn_bots, maps\mp\bots\_bots::func_8F88, ( num_bots / team / botCallback / hal
 -,-,-,-
 addWeaponMysteryBox, maps\mp\zombies\_zombies_magicbox::func_09C8, ( weaponName / attachment1 / attachment2 / attachment3 / limitedItem / forceSelect ), adds weapons to the mystery box
 setPlayerPointsZM, maps\mp\gametypes\zombies::func_7D63, ( <score> ), sets the callers score to the value in parameters.
-zm_SetCallback,lib_0378::func_8DC7,( callbackTitle / callbackFunction ), NONE, defines zm callbacks
+zm_SetCallback,lib_0378::func_8DC7,( callbackTitle / callbackFunction ), defines zm callbacks
 
 pilotActivate, maps\mp\mp_zombie_nest_ee_fire_well::func_7854();, NONE, activates the pilot to go to the generator
