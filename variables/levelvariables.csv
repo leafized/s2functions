@@ -11,3 +11,8 @@ zombies mode,-,-
 level.boxWeaponArray, level.var_5F7F, array of weapons in the mystery box.
 level.zombies.callbacks, level.var_071D.var_611B, callbacks function array.
 level.finalKillcam_Winner, level.var_3B5C,person who got last kill
+level.zm_drops["ammo"]["func"],level.var_6FBF["ammo"]["func"] = ::func_0DB9;,zombies ammo drop
+level.zm_drops["insta_kill"]["func"],level.var_6FBF["insta_kill"]["func"] = ::func_0DB9;,zombies insta_kill drop
+level.zm_drops["double_points"]["func"],level.var_6FBF["double_points"]["func"] = ::func_0DB9;,zombies double_points drop
+level.zm_drops["nuke"]["func"],level.var_6FBF["nuke"]["func"] = ::func_0DB9;,zombies nuke drop
+level.zm_drops["ability_fill"]["func"],level.var_6FBF["ability_fill"]["func"] = ::func_0DB9;,zombies ability_fill drop
