@@ -1,0 +1,3 @@
+dvar, hashed name, type, description
+scr_game_radarMode, n/a, bool, sets the minimap radar mode.
+scr_game_thirdPerson, 311, bool, sets the mode to thirdperson using SetDynamicDvar
