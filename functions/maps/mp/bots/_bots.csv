@@ -1,3 +1,3 @@
 name, hashed name, parameters, description
-bots setup_callBacks	maps\mp\bots\_bots::func_87A7()	NONE	sets up the bots
-spawn_bots	maps\mp\bots\_bots::func_8F88	( num_bots / team / botCallback / haltWhenFull / notifyWhenDone / difficulty )	spawns bots function
+bots setup_callBacks,maps\mp\bots\_bots::func_87A7(),NONE,sets up the bots
+spawn_bots,maps\mp\bots\_bots::func_8F88,( num_bots / team / botCallback / haltWhenFull / notifyWhenDone / difficulty ),spawns bots function
