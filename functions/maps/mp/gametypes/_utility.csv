@@ -1,0 +1,5 @@
+name, hashed name, parameters, description
+setObjectiveText, maps\mp\_utility::func_86DC, ( team / string ), this changes the Objective Text
+setObjectiveHintText, maps\mp\_utility::func_86D8, ( team / string ), this changes the objective hint!
+setObjectiveScoreText, maps\mp\_utility::func_86DB, ( team / string ), this changes the score text!
+getStatMode, common_scripts\_utility::func_46AE, NONE,This function will return rankedPlayerStats or zombiePlayerStats (depending on gametype)

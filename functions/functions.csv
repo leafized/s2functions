@@ -4,14 +4,11 @@ giveLoadout, maps\mp\gametypes\_class::func_0F35, ( team / class ) ,Gives the pl
 giveKillstreak, maps\mp\killstreaks\_killstreaks::func_478D, ( streakName/ isEarned/ awardXp/ owner/ slotNumber/ streakID ) ,Gives the player a killstreak
 setPoint, maps\mp\gametypes\_hud_util::func_8707, ( point / relativePoint / xOffset / yOffset / moveTime ),This is setpoint in s2
 -,-,-,-
-setObjectiveText, maps\mp\_utility::func_86DC, ( team / string ), this changes the Objective Text
-setObjectiveHintText, maps\mp\_utility::func_86D8, ( team / string ), this changes the objective hint!
-setObjectiveScoreText, maps\mp\_utility::func_86DB, ( team / string ), this changes the score text!
-getStatMode, common_scripts\_utility::func_46AE, NONE,This function will return rankedPlayerStats or zombiePlayerStats (depending on gametype)
+
 -,-,-,-
 playerUnlimitedAmmo, maps\mp\gametypes\scorestreak_training::func_47A9(), NONE, note::only use the code inside this function. it doesnt work outside hub!
 -,-,-,-
-endGame, maps\mp\gametypes\_gamelogic::func_36B9, ( team / reason ),ends the game with reason
+
 -,-,-,-
 hudScaleOverTime, maps\mp\gametypes\_hud_util::func_9C84, ( time ), scales fonts and shaders
 -,-,-,-
