@@ -1,0 +1,5 @@
+NAME,HASHED FUNCTION NAME, PARAMETERS ( / REPRESENTS A COMMA )  ,DESCRIPTION
+isSwitchingTeams, func_57F3, NONE, checks to see if caller is siwtching teams.
+isFriendlyFire, func_56FA, (victim / attacker),determines if damage is friendly fire or not.
+killedSelf, func_8B8B, ( eAttacker ),determines if player killed themself.
+handleTeamChangeDeath, func_4AFC, NONE,handles death when changing teams.

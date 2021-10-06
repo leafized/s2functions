@@ -1,2 +1,13 @@
 NAME,HASHED FUNCTION NAME, PARAMETERS ( / REPRESENTS A COMMA )  ,DESCRIPTION
-EMPTY,EMPTY,EMPTY,EMPTY
+onForfeit, func_6B3C, (team), invoke game forfeit on team if no enemies are present.
+forfeitWaitForAbort, func_3E3A, NONE, disables forfeit huds.
+matchForfeitTimer_Internal, func_602A, (countTime), timer that handles forfeit
+default_onDeadEvent, func_2BAD, (team), no description at this time.
+default_onLeftEvent, func_2BAF, (team), handles last alive events
+default_onTimeLimit, func_2BB0, NONE, callback that handles time end
+forceEnd, func_3E1A, NONE, handles game ending.
+onScoreLimit, func_6B9B, NONE, handles score limit reached.
+updateGameEvents, func_A11E, NONE, updates game events.
+setHasDoneCombat, func_869D, ( player / combatType ),sets a player variaable.
+updateWinStats, func_A199, ( player ),updates player win stats to lobby current stat.
+   
