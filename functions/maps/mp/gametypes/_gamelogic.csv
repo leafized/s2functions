@@ -10,4 +10,3 @@ onScoreLimit, func_6B9B, NONE, handles score limit reached.
 updateGameEvents, func_A11E, NONE, updates game events.
 setHasDoneCombat, func_869D, ( player / combatType ),sets a player variaable.
 updateWinStats, func_A199, ( player ),updates player win stats to lobby current stat.
-   
