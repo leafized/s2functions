@@ -1,1 +1,16 @@
-This is a default changelog
+Version 0.1.5
+
+- Added changelog form
+- Added some directories
+- Auto sizing dataTables
+- Added dvars
+
+Version: 0.1.2
+
+- Added changelog
+- Added notifications when a new version is available
+
+Known Issues
+
+- Currently you cannot use the search functions.
+- Only select menu tabs have been worked on, more will be added soon.
